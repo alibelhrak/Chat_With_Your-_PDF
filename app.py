@@ -53,4 +53,5 @@ def chat():
     return render_template('chat.html', response=response, question=question)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, use_reloader=False)
+
