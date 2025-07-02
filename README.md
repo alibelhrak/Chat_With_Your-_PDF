@@ -50,6 +50,10 @@ flask
 langchain
 langchain_community
 langchain_core
+
+![msedge_2GVMirOdz1](https://github.com/user-attachments/assets/263139d9-8dd2-420e-973d-69d13e380458)
+
+
 sentence-transformers
 faiss-cpu
 
