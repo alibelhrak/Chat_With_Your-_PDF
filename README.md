@@ -18,7 +18,7 @@ Simple Flask web interface for chat interaction
 pdf_chatbot/
 ├── app.py                # Flask app with routes
 ├── vector.py             # PDF loading, splitting, embedding, retriever setup
-├── llm_chain.py          # LLM model and LangChain chain setup
+├── main.py          # LLM model and LangChain chain setup
 ├── uploads/              # Folder to store uploaded PDFs
 ├── templates/
 │   ├── index.html        # PDF upload form
